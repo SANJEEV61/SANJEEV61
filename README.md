@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Sanjeev R
+# Sanjeev R 👨‍💻
 Full-Stack Developer | Tech Enthusiast
 
 ## Professional Summary
@@ -20,13 +20,13 @@ Full-stack developer with a passion for creating robust and scalable web applica
   - **Achievements:** Improved UI/UX resulting in a 15% reduction in task completion time.
 
 ## Skills
-- **Languages:** C++, Java, Python, JavaScript
+- **Languages:** C++, Java, Python, JavaScript 
 - **Front-end:** React, Angular, HTML, CSS
 - **Back-end:** Node.js, PHP
 - **Database:** MongoDB, MySQL
 
 ## Contact
-- Email: sanjeev06022001@gmail.com
+- 📧 Email: sanjeev06022001@gmail.com 
 - LinkedIn: [Sanjeev R on LinkedIn](https://www.linkedin.com/in/sanjeev-r-5806831b2/)
 
 ## Education
