@@ -20,10 +20,10 @@ Full-stack developer with a passion for creating robust and scalable web applica
   - **Achievements:** Improved UI/UX resulting in a 15% reduction in task completion time.
 
 ## Skills
-- **Languages:** C++, Java, Python, JavaScript 
-- **Front-end:** React, Angular, HTML, CSS
-- **Back-end:** Node.js, PHP
-- **Database:** MongoDB, MySQL
+- **Languages:** Java
+- **Front-end:** ReactJS
+- **Back-end:** Spring Boot, Microservices, RESTAPI
+- **Database:** MySQL
 
 ## Contact
 - 📧 Email: sanjeev06022001@gmail.com 
